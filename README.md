@@ -92,6 +92,10 @@ Data and results-driven professional with about 4 years of corporate experience 
 
 ## Education
 - **Master of Science in Information Systems**  
-  Central Michigan University
+  Central Michigan University  
+  *August 2022 - May 2024*  
+  *GPA: 3.70*  
 - **Bachelor of Business Administration**  
-  GEMS B School
+  GEMS B School  
+  *June 2016 - July 2019*  
+  *CGPA: 3.82*
