@@ -42,20 +42,20 @@ Data and results-driven professional with about 4 years of corporate experience 
 
 ## Internships
 ### Business Development Executive  
-**Tranzform Pvt. Ltd** (4 months)  
+**Tranzform Pvt. Ltd** (February 2019 - May 2019)  
 - Conducted market research to identify potential clients and business opportunities, contributing to revenue growth strategies.
 - Assisted in the development of client engagement initiatives, enhancing relationship management and customer retention.
 - Planned budgets and finance reports to clients, ensuring transparency in financial transactions and aligning expenditures with business objectives.
 
 ### Event Management  
-**DNA Entertainment Networks Pvt. Ltd** (2 months)  
-**The Absolute Journey** (2 months)  
+**DNA Entertainment Networks Pvt. Ltd** (June 2017- July 2017)  
+**The Absolute Journey** (June 2018 - July 2018)  
 - Assisted in planning and executing large-scale events, coordinating with multiple stakeholders to ensure smooth operations.
 - Managed vendor communication and logistics, ensuring timely delivery of services and resources for successful event execution.
 
 ### Sales Executive  
-**Titan Company Limited** (2 months)  
-**Tanishq** (1 month)  
+**Titan Company Limited** (April 2017 - May 2017)  
+**Tanishq** (May 2018 - June 2018)  
 - Provided personalized sales assistance, improving customer experience and increasing sales conversion rates.
 - Developed an understanding of luxury retail sales and customer behavior, enhancing brand positioning and loyalty.
 - Monitored inventory data to ensure accurate stock levels and timely sales reports, preventing stockouts and optimizing product availability.
