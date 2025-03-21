@@ -1,101 +1,68 @@
 # Sagar Anand Yoganandan
-
-**Tel:** (989)-9337338 | **Email:** sagaranand1164@gmail.com | **LinkedIn:** [LinkedIn Profile](#)
+**Location:** Lansing, MI  
+**Email:** sagaranandy.private@gmail.com  
+**LinkedIn:** [Sagar Anand Yoganandan](https://www.linkedin.com/in/sagaranandyoganandan/)  
 
 ## Executive Summary
-Data and results-driven professional with about 4 years of corporate experience in data analytics, business process optimization, and HR technology solutions. Proficient in Tableau for data visualization, R programming for sentiment analysis, and Python for developing innovative applications. Skilled in managing relational databases using SQL and optimizing HR processes through HRIS systems. Demonstrated expertise in marketing automation tools such as HubSpot and Mailchimp to enhance customer engagement and drive branding initiatives. Certified Lean Six Sigma Green Belt with hands-on experience in ERP (SAP), JMP, and advanced MS Excel for statistical analysis, process improvement, and operational efficiency. A collaborative leader, delivering actionable insights to streamline HR systems, optimize workforce planning, and enhance business performance.
-
-## Work Experience
-### Learning System Support Assistant – Data Migration  
-**Central Michigan University** | Mt Pleasant, MI, USA  
-*October 2023 – May 2024*  
-- Led the transition from Blackboard to Blackboard Ultra, ensuring seamless data migration by designing and executing precise migration plans.
-- Implemented regular data cleansing procedures, improving data quality and reducing discrepancies by 80%.
-- Utilized sophisticated data handling methods to ensure accurate migration and maintaining reporting structures for decision-making.
-- Established the foundation for Blackboard Ultra applying advanced insights to improve and streamline the learning management system.
-
-### Business Data Analyst  
-**Ladder Consultancy Services Pvt Ltd.** | Bangalore, KA, India  
-*June 2019 - July 2022*  
-- Experienced in corporate operations with over 3 years of experience designing dashboards to track marketing trends and performance with Tableau.
-- Conducted weekly evaluations and optimized LMS software under the CEO's supervision, using data-driven strategies to boost user engagement.
-- Analyzed social media data and provided recommendations for cross-functional teams, implementing branding solutions that reached over 60,000 potential customers.
-- Leveraged statistical analysis to enhance the effectiveness of revenue-generating programs, managing databases of 100,000+ profiles on SQL and executing email campaigns through HubSpot and Mailchimp.
-- Worked under the supervision of the CEO to analyze and enhance HRIS systems, designing innovative career services to support recruitment strategies for both professionals and students.
+Experienced Data Analyst skilled in data analytics, business process optimization, and creating interactive visualizations with Power BI and Tableau. Proven track record in data acquisition, integration, and delivering actionable insights for strategic decision-making. Ready to drive data-driven business improvements.
 
 ## Core Skills
-- **Tableau:** Data cleaning, filtering, and sorting; performed calculations and developed dashboards to meet dataset objectives.
-- **R Programming:** Data collection, wrangling, sentiment analysis, and feature engineering; created visual plots for data comparison.
-- **Python & Tkinter:** Developed a vehicle auction and sales system, enhancing user experience.
-- **SQL:** Managed relational databases, executing complex and join queries for data retrieval and analysis.
-- **MS Excel:** Utilized pivot tables and charts for data analysis; employed tools for data verification and visualization of findings.
-- **ERP (SAP):** Planned independent orders for procurement and strategically priced products to increase company valuation during simulations.
-- **JMP:** Conducted descriptive analysis, probability assessments, and created interactive graphs for normality and sample testing.
-- **Marketing Automation Tools:** Managed customer databases and brand awareness initiatives using CRM tools like HubSpot and Mailchimp.
-- **Learning Management Systems:** Led the transition from Blackboard to Blackboard Ultra, focusing on data migration and cleansing for improved efficiency.
-- **HRIS:** Managed recruitment processes by tracking applicants, maintaining candidate databases, and optimizing workflows to enhance hiring efficiency and workforce planning.
+- **Data Analysis & Visualization:** Power BI, Tableau, MS Excel, JMP  
+- **Programming & Scripting:** Python, SQL, Tkinter  
+- **Business Process Optimization:** Lean Six Sigma, ERP (SAP), HRIS, Workflow Automation  
+- **Marketing Automation Tools:** HubSpot, Mailchimp  
+- **Learning Management Systems:** Blackboard, Blackboard Ultra  
+- **Project Management & Documentation:** Requirements Gathering, KPI Reporting, Data Validation, Process Improvement  
 
-## Certificates
-- **Certified in Business Data Analytics** - Skilled in analyzing data and delivering actionable insights for business growth.
-- **Certified Lean Six Sigma Green Belt** - Demonstrating expertise in process improvement and operational efficiency.
-- **ERP Sim Leap Year Challenge 2024** - Participant hosted by HEC Montréal, representing Central Michigan University.
+## Work Experience
+### Benda Infotech | HRIS Data Analyst  
+*Dec 2024 – Present*  
+- Analyzed and optimized HRIS systems using SQL to streamline recruitment processes, track applicants, and maintain candidate databases.  
+- Enhanced HR workflows, leveraging HubSpot and Mailchimp to boost candidate engagement and improve communication in recruitment processes.  
+- Collaborated with the IT team to troubleshoot and improve the user experience of HRIS software, ensuring smooth operations for profile management, payroll, training, and recruitment.  
 
-## Internships
-### Business Development Executive  
-**Tranzform Pvt. Ltd** (February 2019 - May 2019)  
-- Conducted market research to identify potential clients and business opportunities, contributing to revenue growth strategies.
-- Assisted in the development of client engagement initiatives, enhancing relationship management and customer retention.
-- Planned budgets and finance reports to clients, ensuring transparency in financial transactions and aligning expenditures with business objectives.
+### Sapphire Software Solutions Inc. | Data Analyst  
+*Sep 2024 – Dec 2024*  
+- Partnered with project managers to identify analytics needs and deliver actionable insights to stakeholders.  
+- Conducted data analysis to identify operational improvements and presented findings to inform strategic decision-making.  
+- Developed interactive data visualizations using Power BI, integrating data components from various sources to support business reporting.  
+- Implemented data acquisition and integration logic to enhance system performance and scalability.  
 
-### Event Management  
-**DNA Entertainment Networks Pvt. Ltd** (June 2017- July 2017)  
-**The Absolute Journey** (June 2018 - July 2018)  
-- Assisted in planning and executing large-scale events, coordinating with multiple stakeholders to ensure smooth operations.
-- Managed vendor communication and logistics, ensuring timely delivery of services and resources for successful event execution.
+### Central Michigan University | Learning System Support Assistant - Data Migration  
+*Oct 2023 – May 2024*  
+- Led the migration of data from Blackboard to Blackboard Ultra, ensuring a seamless transition and consistent reporting structures.  
+- Implemented data cleansing procedures using MS Excel, which improved data quality by 80%, leading to more accurate reporting and better decision-making.  
+- Provided data analysis and maintained reporting systems to support decision-making processes.  
 
-### Sales Executive  
-**Titan Company Limited** (April 2017 - May 2017)  
-**Tanishq** (May 2018 - June 2018)  
-- Provided personalized sales assistance, improving customer experience and increasing sales conversion rates.
-- Developed an understanding of luxury retail sales and customer behavior, enhancing brand positioning and loyalty.
-- Monitored inventory data to ensure accurate stock levels and timely sales reports, preventing stockouts and optimizing product availability.
+### Ladder Consultancy Services Pvt. Ltd. | Business Data Analyst  
+*Jun 2019 – Jul 2022*  
+- Designed and maintained Tableau dashboards to track marketing performance and KPIs, leading to improved decision-making and strategy adjustments.  
+- Analyzed social media engagement data, providing insights that reached over 60,000 potential customers.  
+- Managed large databases (100,000+ profiles) using SQL for data extraction and analysis.  
+- Utilized HubSpot and Mailchimp to manage marketing campaigns, resulting in improved customer engagement and increased campaign effectiveness.  
+
+## Education
+- **Central Michigan University**  
+  Master of Science, Information Systems - Business Data Analytics (GPA: 3.70)  
+  *Aug 2022 – May 2024* | Mount Pleasant, MI  
+- **GEMS B School**  
+  Bachelor of Business Administration (GPA: 3.82)  
+  *Jun 2016 – Jul 2019* | Bengaluru, Karnataka, India  
+
+## Certifications
+- **Lean Six Sigma Green Belt:** Central Michigan University – *12/13/2023*  
+- **12th Annual ERPsim Invitational Competition:** Central Michigan University – *03/19/2024*  
+- **ERPsim Leap Year Challenge 2024:** ERPsim Lab - HEC Montreal – *03/01/2024*  
 
 ## Projects
 ### ERPsim Manufacturing Company Project  
-*December 2022 - March 2024*  
-- Designated communication liaison, facilitating effective communication with the assigned company regarding team performance.
-- Implemented sophisticated data collection and data validation techniques to procure and analyze information, facilitating strategic decision-making.
-- Enhanced team efficiency through meticulous documentation preparation and management of vital data analysis records.
-- Applied adept requirements gathering techniques to meticulously define and document data, resulting in a notable 70% improvement in team efficiency and positioning them for further advancement.
-- Secured 2nd place in the 2024 Annual ERPsim competition, Flight 1, showcasing expertise in ERP systems, and participated in the Sustainability Challenge organized by ERPsim Lab - HEC Montreal.
+*Dec 2022 – Mar 2024*  
+- Managed procurement, production, and sales using SAP ERP, validated data in MS Excel for strategic decisions, and secured 2nd place in the 2024 ERPsim competition.  
 
 ### Systems Analysis and Design Project  
-*August 2023 - December 2023*  
-- Created planning reports and provided documentation of how strategic decisions should be executed in a Systems Analysis and Design project.
-- Created a System Proposal and designed DFDs and ERDs in Lucid Chart.
-- Designed forms in Excel to implement database design.
+*Aug 2023 – Dec 2023*  
+- Designed system proposals, DFDs, and ERDs in Lucidchart, and developed database forms in MS Excel for implementation.  
 
 ### Vehicle Auction and Sales System  
-*January 2024 - May 2024*  
-- Developed an auction and sales system using Python and Tkinter, providing users with a platform to showcase their vehicles.
-- Employed Use Cases to showcase the auction and sales system, refining its performance and usability.
-- Played a pivotal role in developing comprehensive functional requirements that defined the entire system and its future developments, ensuring clarity and alignment with project objectives.
-- Utilized process flow techniques to optimize data analysis procedures, resulting in improved efficiency and accuracy.
-- Used MySQL for seamless data storage, retrieval, and integrity, facilitating efficient database operations for enhanced management and analysis.
-
-## Awards
-- **2nd Place** in the 2024 Annual ERP Sim competition by SAP Next-Gen University Alliance at Central Michigan University.
-
-## Volunteer Experience
-- **President** - Rotaract Club of GEMS B SCHOOL
-- **Secretary** - Rotaract Club of GEMS B SCHOOL
-
-## Education
-- **Master of Science in Information Systems**  
-  Central Michigan University  
-  *August 2022 - May 2024*  
-  *GPA: 3.70*  
-- **Bachelor of Business Administration**  
-  GEMS B School  
-  *June 2016 - July 2019*  
-  *CGPA: 3.82*
+*Jan 2024 – May 2024*  
+- Developed a Python-based auction and sales system using Tkinter and managed the database with MySQL to ensure smooth operations and performance. 
