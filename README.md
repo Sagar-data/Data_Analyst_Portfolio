@@ -18,6 +18,7 @@
   - [Systems Analysis and Design Project](#systems-analysis-and-design-project)
   - [Vehicle Auction and Sales System](#vehicle-auction-and-sales-system)
 - [Internships](#internships)
+- [Volunteer Experience](#volunteer-experience)
 
 ## Executive Summary
 Experienced Data Analyst skilled in data analytics, business process optimization, and creating interactive visualizations with Power BI and Tableau. Proven track record in data acquisition, integration, and delivering actionable insights for strategic decision-making. Ready to drive data-driven business improvements.
@@ -102,3 +103,10 @@ Experienced Data Analyst skilled in data analytics, business process optimizatio
 - Provided personalized sales assistance, improving customer experience and increasing sales conversion rates.  
 - Developed an understanding of luxury retail sales and customer behavior, enhancing brand positioning and loyalty.  
 - Monitored inventory data to ensure accurate stock levels and timely sales reports, preventing stockouts and optimizing product availability.
+
+## Volunteer Experience
+### President  
+**Rotaract Club of GEMS B SCHOOL** | *Aug 2018 – Jun 2019*  
+
+### Secretary  
+**Rotaract Club of GEMS B SCHOOL** | *Aug 2017 – Jun 2018*
