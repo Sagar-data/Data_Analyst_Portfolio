@@ -3,6 +3,22 @@
 **Email:** sagaranandy.private@gmail.com  
 **LinkedIn:** [Sagar Anand Yoganandan](https://www.linkedin.com/in/sagaranandyoganandan/)  
 
+## Table of Contents
+- [Executive Summary](#executive-summary)
+- [Core Skills](#core-skills)
+- [Work Experience](#work-experience)
+  - [Benda Infotech | HRIS Data Analyst](#benda-infotech--hris-data-analyst)
+  - [Sapphire Software Solutions Inc. | Data Analyst](#sapphire-software-solutions-inc--data-analyst)
+  - [Central Michigan University | Learning System Support Assistant - Data Migration](#central-michigan-university--learning-system-support-assistant---data-migration)
+  - [Ladder Consultancy Services Pvt. Ltd. | Business Data Analyst](#ladder-consultancy-services-pvt-ltd--business-data-analyst)
+- [Education](#education)
+- [Certifications](#certifications)
+- [Projects](#projects)
+  - [ERPsim Manufacturing Company Project](#erpsim-manufacturing-company-project)
+  - [Systems Analysis and Design Project](#systems-analysis-and-design-project)
+  - [Vehicle Auction and Sales System](#vehicle-auction-and-sales-system)
+- [Internships](#internships)
+
 ## Executive Summary
 Experienced Data Analyst skilled in data analytics, business process optimization, and creating interactive visualizations with Power BI and Tableau. Proven track record in data acquisition, integration, and delivering actionable insights for strategic decision-making. Ready to drive data-driven business improvements.
 
@@ -65,4 +81,24 @@ Experienced Data Analyst skilled in data analytics, business process optimizatio
 
 ### Vehicle Auction and Sales System  
 *Jan 2024 – May 2024*  
-- Developed a Python-based auction and sales system using Tkinter and managed the database with MySQL to ensure smooth operations and performance. 
+- Developed a Python-based auction and sales system using Tkinter and managed the database with MySQL to ensure smooth operations and performance.
+
+## Internships
+### Business Development Executive  
+**Tranzform Pvt. Ltd** | *Feb 2019 – May 2019*  
+- Conducted market research to identify potential clients and business opportunities, contributing to revenue growth strategies.  
+- Assisted in the development of client engagement initiatives, enhancing relationship management and customer retention.  
+- Planned budgets and finance reports to clients, ensuring transparency in financial transactions and aligning expenditures with business objectives.  
+
+### Event Management  
+**DNA Entertainment Networks Pvt. Ltd** | *Jun 2017 – Jul 2017*  
+**The Absolute Journey** | *Jun 2018 – Jul 2018*  
+- Assisted in planning and executing large-scale events, coordinating with multiple stakeholders to ensure smooth operations.  
+- Managed vendor communication and logistics, ensuring timely delivery of services and resources for successful event execution.  
+
+### Sales Executive  
+**Titan Company Limited** | *Apr 2017 – May 2017*  
+**Tanishq** | *May 2018 – Jun 2018*  
+- Provided personalized sales assistance, improving customer experience and increasing sales conversion rates.  
+- Developed an understanding of luxury retail sales and customer behavior, enhancing brand positioning and loyalty.  
+- Monitored inventory data to ensure accurate stock levels and timely sales reports, preventing stockouts and optimizing product availability.
