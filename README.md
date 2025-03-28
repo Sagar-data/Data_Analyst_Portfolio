@@ -33,17 +33,10 @@ Experienced Data Analyst skilled in data analytics, business process optimizatio
 
 ## Work Experience
 ### Benda Infotech | HRIS Data Analyst  
-*Dec 2024 – Present*  
+*Jul 2024 – Present*  
 - Analyzed and optimized HRIS systems using SQL to streamline recruitment processes, track applicants, and maintain candidate databases.  
 - Enhanced HR workflows, leveraging HubSpot and Mailchimp to boost candidate engagement and improve communication in recruitment processes.  
-- Collaborated with the IT team to troubleshoot and improve the user experience of HRIS software, ensuring smooth operations for profile management, payroll, training, and recruitment.  
-
-### Sapphire Software Solutions Inc. | Data Analyst  
-*Sep 2024 – Dec 2024*  
-- Partnered with project managers to identify analytics needs and deliver actionable insights to stakeholders.  
-- Conducted data analysis to identify operational improvements and presented findings to inform strategic decision-making.  
-- Developed interactive data visualizations using Power BI, integrating data components from various sources to support business reporting.  
-- Implemented data acquisition and integration logic to enhance system performance and scalability.  
+- Collaborated with the IT team to troubleshoot and improve the user experience of HRIS software, ensuring smooth operations for profile management, payroll, training, and recruitment.   
 
 ### Central Michigan University | Learning System Support Assistant - Data Migration  
 *Oct 2023 – May 2024*  
